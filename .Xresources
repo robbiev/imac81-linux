@@ -1,0 +1,5 @@
+xterm*faceName: Inconsolata
+xterm*faceSize: 13
+xterm*termName: xterm-256color
+xterm*Background: Black
+xterm*Foreground: grey80
